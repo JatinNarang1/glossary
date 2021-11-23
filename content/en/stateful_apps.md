@@ -6,7 +6,7 @@ category: concept
 
 ## What it is
 
-When we speak of stateful (and [stateless](https://glossary.cncf.io/stateless_apps/)) apps, state refers to any data the app needs to store to function as designed. Any kind of online shop that remembers your cart is a stateful app for example. 
+Stateful (and [stateless](https://glossary.cncf.io/stateless_apps/))application, is a program that keeps track of the state of interaction with user and saves data(either locally or in database systems) for use in the next session. For example, while using an e-commerce website your cart information is stored and can also be accessed in the next session.
 
 ## Problem it addresses
 
